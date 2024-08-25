@@ -1,14 +1,13 @@
 ﻿# centroespirita-crud-java
 
-# Acervo
 
 ## Descrição
-O projeto **Acervo** é uma aplicação web desenvolvida para o projeto de extensão da Estácio, utilizando Spring Boot para gerenciar o acervo de livros de um centro espírita. A aplicação permite o registro, atualização, deleção e consulta de livros em uma base de dados MongoDB.
+O projeto **centroespirita-crud-java** é uma API REST desenvolvida para o projeto de extensão da Estácio, utilizando Spring Boot para gerenciar o acervo de livros de um centro espírita. A aplicação permite o registro, atualização, deleção e consulta (GET, POST, PUT and DELETE, não na mesma ordem) de livros em uma base de dados MongoDB.
 
 ## Estrutura do Projeto
 
 ```
-book-acervo/
+acervo/
 ├── src/
 │   ├── main/
 │   │   ├── java/
