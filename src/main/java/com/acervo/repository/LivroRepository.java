@@ -1,4 +1,4 @@
-package com.acervo.Acervo.repository;
+package com.acervo.repository;
 
 public class LivroRepository {
     

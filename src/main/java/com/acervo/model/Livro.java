@@ -1,4 +1,4 @@
-package com.acervo.Acervo.model;
+package com.acervo.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

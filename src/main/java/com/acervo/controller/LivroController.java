@@ -1,4 +1,4 @@
-package com.acervo.Acervo.controller;
+package com.acervo.controller;
 
 public class LivroController {
     
