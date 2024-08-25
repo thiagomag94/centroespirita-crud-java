@@ -65,8 +65,8 @@ mvn spring-boot:run
 A aplicação estará disponível em `http://localhost:8080`.
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por Thiago Borges Miranda.
 
 ## Licença
-Este projeto está licenciado sob a [Licença que você escolher].
+Este projeto está licenciado sob a Apache License 2.0.
 
